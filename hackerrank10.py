@@ -1,5 +1,3 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
-
 
 """Task 
 Given n names and phone numbers, assemble a phone book that maps friends' 
@@ -11,6 +9,7 @@ Note: Your phone book should be a Dictionary/Map/HashMap data structure.
  
  """
 
+# Enter your code here. Read input from STDIN. Print output to STDOUT
 
 n = int(input())
 dic = {}
@@ -25,3 +24,6 @@ for i in range(n):
         print(name + '='+ str(dic[name]))
     else :
         print('Not found')
+      
+      
+     
