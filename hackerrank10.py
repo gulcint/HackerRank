@@ -28,7 +28,7 @@ for i in range(n):
       
 """
 
-# this cose is work for all cases.
+# 2nd code is work for all cases.
 
 num = int(input())
 
